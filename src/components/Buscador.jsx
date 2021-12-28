@@ -20,6 +20,7 @@ const Buscador = () => {
   };
 
   const filtrar = (patente) => {
+    // eslint-disable-next-line array-callback-return
     let resultadosBusqueda = tablaEmpleados.filter((elemento) => {
       if (
         elemento.Patente
