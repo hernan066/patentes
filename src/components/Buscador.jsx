@@ -52,7 +52,7 @@ const Buscador = () => {
         <form>
           <div className="buscador__input">
             <input type="text" value={busqueda} onChange={handleChange} />
-            <i class="fas fa-search"></i>
+            <i className="fas fa-search"></i>
           </div>
         </form>
 
