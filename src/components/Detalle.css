@@ -1,0 +1,17 @@
+.detalle__main{
+   
+    text-align: center;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 15px;
+    
+}
+.detalle__main h3{
+    font-size: 30px;
+   
+}
+.detalle__main p{
+    font-size: 20px;
+    margin-top: 15px;
+}
